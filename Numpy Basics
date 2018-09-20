@@ -1,7 +1,8 @@
 Numpy-Numerical python is the fundamental package for scientific computing with python . If you are going to work on data analysis or machine learning projects, then having a solid understanding of numpy is nearly mandatory.
 
+The key difference between an array and a list is, arrays are designed to handle vectorized operations while a python list is not.
+That means, if you apply a function it is performed on every item in the array, rather than on the whole array object.
 Numpy provides the excellent ndarray objects, short for n-dimensional arrays.
-
 In an ‘ndarray’ object we can store multiple items of the same data type.
 There are very significant advantages of using numpy arrays overs lists,without wasting any more time let's go through it
 
