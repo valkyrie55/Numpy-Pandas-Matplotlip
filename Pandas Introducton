@@ -1,0 +1,11 @@
+Pandas contain data structures amd data manipulation tools designed to make data cleaning and analysis fast and easy in python.
+Let's get familiar with two workhouse data structures:Series and Dataframes.
+
+Series : 
+      A one-D  array like object containing a sequence of values(of  similar types to numpy types).It has index on the left and values on the right.
+      It can be thought of as a fixed length,ordered dictionary. 
+
+Dataframe:
+     A Dataframe is a rectangular table of data and contains an ordered collection of colmns,each of which can be of a different value type(numeric,string,boolean etc)
+     It has both row and column index.
+     
