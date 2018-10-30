@@ -1,3 +1,4 @@
+A List is a python data structure that holds many python objects.It is flexible(can be filled with data of desired type).Numpy arrays lack flexibility but are much more efficient for storing and manipulating data.
 Numpy-Numerical python is the fundamental package for scientific computing with python . If you are going to work on data analysis or machine learning projects, then having a solid understanding of numpy is nearly mandatory.
 
 The key difference between an array and a list is, arrays are designed to handle vectorized operations while a python list is not.
