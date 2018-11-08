@@ -9,3 +9,14 @@ Dataframe:
      A Dataframe is a rectangular table of data and contains an ordered collection of colmns,each of which can be of a different value type(numeric,string,boolean etc)
      It has both row and column index.
      
+-----------------------------Series---------------------------------
+We can  also specify index for the sequence
+// to print the values
+-> obj.values 
+//to change the index
+obj = pd.Series(data,index =['a','b','c','d','e'])
+
+---------------------------DataFrames-------------------------------
+//to create a dataframe
+obj ={'sno':[1,2,3,4,5],'State':['Meghalaya','Goa','AP','Gujrat','HP'],'year':[2001,2003,2001,2000,2005]}
+data = pd.DataFrame(obj)
